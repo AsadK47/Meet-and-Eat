@@ -14,7 +14,7 @@ gem 'gmaps4rails'
 gem 'gravatar_image_tag', github: 'mdeering/gravatar_image_tag'
 gem 'jquery-rails'
 gem 'jquery-ui-rails', '5.0.5'
-gem 'mini_magick', '~> 4.9', '>= 4.9.2'
+gem 'mini_magick', '~> 4.9'
 gem 'pry'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
